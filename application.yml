@@ -1,1 +1,1 @@
-myprop=http://localhost:8089/myprop
+myprop: http://localhost:8089/myprop
